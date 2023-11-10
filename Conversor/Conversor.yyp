@@ -34,12 +34,10 @@
     "IDEVersion": "2023.8.2.108",
   },
   "resources": [
-    {"id":{"name":"Room12","path":"rooms/Room12/Room12.yy",},},
     {"id":{"name":"fnt_NumTeclas","path":"fonts/fnt_NumTeclas/fnt_NumTeclas.yy",},},
     {"id":{"name":"scr_FormatarNums","path":"scripts/scr_FormatarNums/scr_FormatarNums.yy",},},
     {"id":{"name":"spr_Tecla","path":"sprites/spr_Tecla/spr_Tecla.yy",},},
     {"id":{"name":"scr_Conversor10_N","path":"scripts/scr_Conversor10_N/scr_Conversor10_N.yy",},},
-    {"id":{"name":"obj_Teste","path":"objects/obj_Teste/obj_Teste.yy",},},
     {"id":{"name":"obj_Conversor","path":"objects/obj_Conversor/obj_Conversor.yy",},},
     {"id":{"name":"fnt_Numero","path":"fonts/fnt_Numero/fnt_Numero.yy",},},
     {"id":{"name":"scr_ConversorN_10","path":"scripts/scr_ConversorN_10/scr_ConversorN_10.yy",},},
@@ -47,7 +45,6 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"roomId":{"name":"Room12","path":"rooms/Room12/Room12.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
